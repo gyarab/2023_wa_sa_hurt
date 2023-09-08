@@ -6,5 +6,5 @@
 - Bahenní souboj s tygrem
 - Hod granátem na plechovku
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fimages%2Fanimals%2Fkitten&psig=AOvVaw3M-f4kYAzl9dgj9i5_mB6n&ust=1694246155346000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCPj06PPEmoEDFQAAAAAdAAAAABAE)
+![alt text](https://images.unsplash.com/photo-1595433707802-6b2626ef1c91?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8fA%3D%3D&w=1000&q=80)
 
