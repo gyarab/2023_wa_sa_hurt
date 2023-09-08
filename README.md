@@ -2,4 +2,5 @@
 
 
 > Žádné ledovce netají, pod to se klidně podepíšu tím ukradeným perem
-Václav Klaus
+
+- Václav Klaus
