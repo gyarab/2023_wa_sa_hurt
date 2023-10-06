@@ -3,7 +3,7 @@
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Ducati_red_logo.svg/848px-Ducati_red_logo.svg.png)
 
 ## proc ducati vybralo tyto barvy?
-- cervena je agresivni barva - powerful, strength, excitement
+- cervena je agresivni barva - powerful, strength, excitement, energy - accoring to google
 - cervena znamena rychlost
 - prodavaj motorky
 
