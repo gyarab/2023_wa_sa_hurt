@@ -13,7 +13,7 @@
 - #005792
 
 - ![alt text](https://placehold.co/300x300/EC1736/FFF)
-- ![alt text](https://placehold.co/300x300/FFFFFF/FFF)
+- ![alt text](https://placehold.co/300x300/FFFFFF/EC1736)
 - ![alt text](https://placehold.co/300x300/005792/FFF)
 
 - Vybral jsem tyto barvy protoze jsou to barvy ČR ❤️
